@@ -1,0 +1,3 @@
+kalimat = input("Masukkan kalimat: ")
+hasil = " ".join(kalimat.split())
+print("Kalimat setelah dihapus spasi berlebih:", hasil)
